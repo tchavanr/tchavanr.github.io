@@ -43,19 +43,15 @@ I have been working in deep learning, machine learning, computer vision, natural
  <br />
 
  <li> <b> Estimation of model capacity for image classification </b>. T. Chavan and A. Nandedkar. International Conference on Emerging Trends in Information Technology (ICETIT) 2019. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-30577-2_44">Paper</a>]</li>
-</ul>
  <br />
 
  <li> <b> AgroAVNET for crops and weeds classification: A step forward in automatic farming </b>. T. Chavan and A. Nandedkar. Elsevier’s Computers and Electronics in Agriculture (CEA), vol. 154, pp. 361-372, 2018. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0168169918305532">Paper</a>]</li>
-</ul>
  <br />
 
  <li> <b> A hybrid deep neural network for online learning </b>. T. Chavan and A. Nandedkar. Ninth IEEE International Conference on Advances in Pattern Recognition (ICAPR), Bangalore, India, pp. 1-6, 2017. [<a href="https://ieeexplore.ieee.org/abstract/document/8592942">Paper</a>]</li>
-</ul>
  <br />
 
  <li> <b> Digital image inpainting using speeded up robust feature </b>. T. Chavan and A. Nandedkar. International Conference on Advances in Computing, Communications and Informatics (ICACCI), New Delhi, pp. 1408-1412, 2014. [<a href="https://ieeexplore.ieee.org/abstract/document/6968221">Paper</a>]</li>
-</ul>
  <br />
 
  <li> <b> Digital image inpainting: A review </b>. T. Chavan and A. Nandedkar. National Conference on Computing, Communication and Networking Technologies (NCCCNT), Nanded, pp. 21-25, 2013.</li>
