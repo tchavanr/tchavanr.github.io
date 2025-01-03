@@ -4,7 +4,7 @@ Trupti Chavan
 </title>
 </head>
 # About Me
-<div style = "text-align: justify"> I am currently working as Lead Data Scientist II at Deloitte, India. I have an experience of ~10 years across research, academics and industries. I have completed my Ph. D. in Image classification using deep learning approaches at the <a href="https://www.sggs.ac.in/"> SGGSIE&T, India under the supervision of <a href="https://scholar.google.co.in/citations?hl=en&user=nNveFNUAAAAJ&view_op=list_works&sortby=pubdate"> Dr. A. v. Nandedkar.
+<div style = "text-align: justify"> I am currently working as Lead Data Scientist II at Deloitte, India. I have an experience of ~10 years across research, academics and industries. I have completed my Ph. D. in Image classification using deep learning approaches at the <a href="https://www.sggs.ac.in/"> SGGSIE&T, India </a> under the supervision of <a href="https://scholar.google.co.in/citations?hl=en&user=nNveFNUAAAAJ&view_op=list_works&sortby=pubdate"> Dr. A. v. Nandedkar </a>.
 <br />
 I have been working in deep learning, machine learning, computer vision, natural language processing and time series forecasting. I have been involved in customer discussions helping them to build AI related use cases, idea generation, proposing solutions, data exploration, model development and analysis, and production support. I am also exploring large langugage models (LLMs).
 </div>
