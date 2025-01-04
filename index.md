@@ -60,9 +60,7 @@ I have been working in deep learning, machine learning, computer vision, natural
 # Work Experience
 <ul>
 <li> Data Scientist | HCL Technologies, India from	May 2019 to Jan 2022.</li>
- <br />
 <li> Research Scholar | SGGSIE&T, Nanded, India from	Nov. 2014 to Dec. 2019.</li>
- <br />
 <li> Lecturer | SGGSIE&T, Nanded, India from	July 2013 to Jan 2014.</li>
 </ul>
 
