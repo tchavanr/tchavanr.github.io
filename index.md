@@ -21,7 +21,7 @@ I have been working in deep learning, machine learning, computer vision, natural
  <li> <b>  Method And System for Detecting Missing Surgical Instruments</b>. D. A. Mani, K. Balasubramanian, Jayachandran K., T. Chavan. Indian Patent No. 528159, Application no. 202111052075, The Patent Office, Government Of India 2024. [<a href="https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus">Patent</a>]</li>
  <br />
 
- <li> <b>  InvUNET: Involuted UNET for Breast Tumor Segmentation from Ultrasound</b>. T. Chavan, K. Prajapati, Kameshwar Rao J.V. International Conference on Artificial Intelligence in Medicine, 2022. [<a href="https://arxiv.org/pdf/2203.13628.pdf">Paper</a>]</li>
+ <li> <b>  InvUNET: Involuted UNET for Breast Tumor Segmentation from Ultrasound</b>. T. Chavan, K. Prajapati, Kameshwar Rao J.V. International Conference on Artificial Intelligence in Medicine, 2022. [<a href="https://link.springer.com/chapter/10.1007/978-3-031-09342-5_27">Paper</a>]</li>
  <br />
  
  <li> <b>  Diagnostic Decision Support for Medical Imaging to Improve COVID-19 Detection </b>. Kameshwar Rao J.V., T. Chavan. NVIDIA GTC 2020.</li>
@@ -36,7 +36,7 @@ I have been working in deep learning, machine learning, computer vision, natural
  <li> <b> Enhanced single shot detector with image sharpening for detection of knee joint </b>. T. Chavan, G.R.K. Sarma, K. Rao J.V.. Tweltth International Conference on Machine Vision (ICMV), 2019. [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11433/114330C/Enhanced-single-shot-detector-with-image-sharpening-for-detection-of/10.1117/12.2557509.short">Paper</a>]</li>
  <br />
 
- <li> <b> A convolutional fuzzy min-max neural network </b>. T. Chavan and A. Nandedkar. Elsevier’s Neurocomputing, 2019. [<a href="https://arxiv.org/pdf/1812.10240?ref=https://githubhelp.com">Paper</a>]</li>
+ <li> <b> A convolutional fuzzy min-max neural network </b>. T. Chavan and A. Nandedkar. Elsevier’s Neurocomputing, 2019. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231220305415">Paper</a>]</li>
  <br />
 
  <li> <b> A convolutional fuzzy min-max neural network for image classification </b>. T. Chavan and A. Nandedkar. International Conference on Computer Vision and Image Processing (CVIP), 2019. [<a href="https://link.springer.com/chapter/10.1007/978-981-15-4018-9_10">Paper</a>]</li>
