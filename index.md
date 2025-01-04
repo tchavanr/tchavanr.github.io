@@ -18,7 +18,7 @@ I have been working in deep learning, machine learning, computer vision, natural
   <li> <b>  Domain Contextual and Relational Graph Model for Predictive Maintenance</b>. R. Schiller, T. Chavan, A. Kakkar, Viraj E., D. Williams, D. Snaidauf, E. Bowen, D. Mittal, S. Reddy. International Conference on Machine Learning and Applications (ICMLA) 2024. [<a href="https://www.icmla-conference.org/icmla24/acceptedpapers.html">Paper</a>]</li>
  <br />
 
- <li> <b>  Method And System for Detecting Missing Surgical Instruments</b>. D. A. Mani, K. Balasubramanian, Jayachandran K., T. Chavan. Indian Patent No. 528159, The Patent Office, Government Of India 2024. [<a href="https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus">Patent</a>]</li>
+ <li> <b>  Method And System for Detecting Missing Surgical Instruments</b>. D. A. Mani, K. Balasubramanian, Jayachandran K., T. Chavan. Indian Patent No. 528159, Application no. 202111052075, The Patent Office, Government Of India 2024. [<a href="https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus">Patent</a>]</li>
  <br />
 
  <li> <b>  InvUNET: Involuted UNET for Breast Tumor Segmentation from Ultrasound</b>. T. Chavan, K. Prajapati, Kameshwar Rao J.V. International Conference on Artificial Intelligence in Medicine, 2022. [<a href="https://arxiv.org/pdf/2203.13628.pdf">Paper</a>]</li>
