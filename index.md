@@ -4,7 +4,7 @@ Trupti Chavan
  </title>
 </head>
 # About Me
-<div style = "text-align: justify"> I am currently working as a Lead Data Scientist II at Deloitte, India. I have an experience of ~10 years across research, academics and industries. I have completed my Ph. D. in Image classification using deep learning approaches at the <a href="https://www.sggs.ac.in/"> SGGSIE&T, India </a> under the supervision of <a href="https://scholar.google.co.in/citations?hl=en&user=nNveFNUAAAAJ&view_op=list_works&sortby=pubdate"> Dr. A. v. Nandedkar</a>.
+<div style = "text-align: justify"> I am currently working as a Manager (Master Data Scientist I) at Deloitte, India. I have an experience of ~10 years across research, academics and industries. I have completed my Ph. D. in Image classification using deep learning approaches at the <a href="https://www.sggs.ac.in/"> SGGSIE&T, India </a> under the supervision of <a href="https://scholar.google.co.in/citations?hl=en&user=nNveFNUAAAAJ&view_op=list_works&sortby=pubdate"> Dr. A. v. Nandedkar</a>.
 <br />
 I have been working in deep learning, machine learning, computer vision, natural language processing and time series forecasting. I have been involved in customer discussions helping them to build AI related use cases, idea generation, proposing solutions, data exploration, model development and analysis, and production support. I am also exploring large langugage models (LLMs).
 </div>
@@ -15,7 +15,13 @@ I have been working in deep learning, machine learning, computer vision, natural
 # Publications 
 <ul>
 
-  <li> <b>  Domain Contextual and Relational Graph Model for Predictive Maintenance</b>. R. Schiller, T. Chavan, A. Kakkar, Viraj E., D. Williams, D. Snaidauf, E. Bowen, D. Mittal, S. Reddy. International Conference on Machine Learning and Applications (ICMLA) 2024. [<a href="https://www.icmla-conference.org/icmla24/acceptedpapers.html">Paper</a>]</li>
+<li> <b>  Adaptive Piecewise Linear Function and Deep Learning for Remaining Useful Life Estimation</b>. [1]	E. Lee, T. Chaudhary, T. Chavan, A. Kakkar, Viraj E, D. Mittal, D. Williams, D. Snaidauf, E. Bowen, S. Reddy. International Electric Machines and Drives Conference (IEMDC) 2025. [<a href="https://www.iemdc.org/app/uploads/2025/05/IEMDC2025_Program_FinalMay20web.pdf">Paper</a>]</li>
+ <br />
+
+ <li> <b>  Generalized ML Approach for Fault Diagnosis of Rotating Machinery Using Domain-Based Features</b>. [1]	A. Kakkar, Viraj E., T. Chaudhary, E. Lee, T. Chavan,  D. Mittal, D. Williams, D. Snaidauf, E. Bowen, S. Reddy. International Electric Machines and Drives Conference (IEMDC) 2025. [<a href="https://www.iemdc.org/app/uploads/2025/05/IEMDC2025_Program_FinalMay20web.pdf">Paper</a>]</li>
+ <br />
+ 
+ <li> <b>  Domain Contextual and Relational Graph Model for Predictive Maintenance</b>. R. Schiller, T. Chavan, A. Kakkar, Viraj E., D. Williams, D. Snaidauf, E. Bowen, D. Mittal, S. Reddy. International Conference on Machine Learning and Applications (ICMLA) 2024. [<a href="https://www.icmla-conference.org/icmla24/acceptedpapers.html">Paper</a>]</li>
  <br />
 
  <li> <b>  Method And System for Detecting Missing Surgical Instruments</b>. D. A. Mani, K. Balasubramanian, Jayachandran K., T. Chavan. Indian Patent No. 528159, Application no. 202111052075, The Patent Office, Government Of India 2024. [<a href="https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus">Patent</a>]</li>
